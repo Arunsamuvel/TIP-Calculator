@@ -67,3 +67,18 @@ button {
   background-color: rgb(114, 106, 106);
   border: none;
 }
+button:hover {
+  background-color: rgb(138, 44, 44);
+}
+button:active {
+  background-color: rgb(225, 17, 17);
+}
+.operator-btn {
+  background-color: rgb(246, 178, 7);
+}
+.operator-btn:hover {
+  background-color: rgb(129, 114, 79);
+}
+.operator-btn:active {
+  background-color: rgb(246, 178, 7);
+}
