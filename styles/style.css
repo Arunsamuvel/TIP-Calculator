@@ -85,10 +85,10 @@ button:active {
 
 @media only screen and (max-width: 600px) {
   #calculator {
-    width: 400px;
+    width: 100vw;
     display: grid;
     flex-direction: column;
-    height: 700px;
+    height: 100vh;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -103,5 +103,5 @@ button:active {
     background-color: aliceblue;
     cursor: pointer;
     color: rgb(17, 255, 0);
-}
+  }
 }
