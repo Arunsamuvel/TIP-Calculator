@@ -82,7 +82,7 @@ button:active {
 .operator-btn:active {
   background-color: rgb(246, 178, 7);
 }
-<<<<<<< HEAD
+
 @media only screen and (max-width: 600px) {
   #calculator {
     width: 400px;
@@ -103,6 +103,5 @@ button:active {
     background-color: aliceblue;
     cursor: pointer;
     color: rgb(17, 255, 0);
-=======
 }
 }
