@@ -82,3 +82,5 @@ button:active {
 .operator-btn:active {
   background-color: rgb(246, 178, 7);
 }
+@media only screen and (max-width:600px){
+}
