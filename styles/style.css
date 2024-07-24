@@ -104,9 +104,5 @@ button:active {
     cursor: pointer;
     color: rgb(17, 255, 0);
 =======
-@media only screen and (max-width:600px){
-  #calculator{
-    width:300px
->>>>>>> 4be7d5815d7e916cc5ab5a3ffe72dd0d268024d5
-  }
+}
 }
