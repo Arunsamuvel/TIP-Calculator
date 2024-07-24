@@ -82,3 +82,25 @@ button:active {
 .operator-btn:active {
   background-color: rgb(246, 178, 7);
 }
+@media only screen and (max-width: 600px) {
+  #calculator {
+    width: 400px;
+    display: grid;
+    flex-direction: column;
+    height: 700px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  button {
+    width: 0px;
+    cursor: pointer;
+    background-color: beige;
+  }
+}
+@media only screen and (max-width: 600px) {
+  button:active {
+    background-color: aliceblue;
+    cursor: pointer;
+    color: rgb(17, 255, 0);
+  }
+}
